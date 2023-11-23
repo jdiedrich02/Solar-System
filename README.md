@@ -12,6 +12,17 @@ This project has the 7 planets of our solar system (sorry pluto :( ) that rotate
 
 There is a timer above that shows the full time elapsed when the planets are moving and a button to start or stop the orbits from moving.
 
+- Mercury -> 88 days
+- Venus -> 225 days
+- Earth -> 365 days
+- Mars -> 687 days
+- Jupiter -> 12 years
+- Saturn -> 29 years
+- Uranus -> 84 years
+- Neptune -> 165 years
+
+Earth is our starting point, so it rotates around at a nice round number.
+
 I am hoping this tool can help some people. Even though it's super simple, it still can be useful! Hopefully with the total time elapsed with the orbits as well as logs that show the amount of orbits completed by each planet, maybe some theories and some orbit alignments can be predicted and found with this application!
 
 Ofcouse this app I made for fun because I love space, but it is cool to think of what can be found using it.
