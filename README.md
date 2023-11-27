@@ -6,7 +6,7 @@ This animation of the solar system uses the orbits of the planets to show how ea
 
 ## Tech
 
-I decided to use Java for this project (specifically Java Swing). This is used to create a new window where we have some circles that rotate around a bigger circle (SO COOL). I actually was interested in how computers were able to generate images of a Black Hole, so I asked ChatGPT how they did this. It responded back with some code showing an orbit. This is when the idea hit me to make a solar system animation instead. I built on what ChatGPT gave me by adding all of the planets and calculating the specific orbits, as well as other additions for completed orbits, etc. 
+I decided to use Java for this project (specifically Java Swing) because I want to learn how to create a cool project in a variety of different programming languages! This is used to create a new window where we have some circles that rotate around a bigger circle (SO COOL). I actually was interested in how computers were able to generate images of a Black Hole, so I asked ChatGPT how they did this. It responded back with some code showing an orbit. This is when the idea hit me to make a solar system animation instead. I built on what ChatGPT gave me by adding all of the planets and calculating the specific orbits, as well as other additions for completed orbits, etc. 
 
 This project has the 7 planets of our solar system (sorry pluto :( ) that rotate around our sun. The rotation speeds are calculated based on the amount of days it takes for the planet to make a full rotation around our sun.
 
