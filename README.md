@@ -27,6 +27,16 @@ I am hoping this tool can help some people. Even though it's super simple, it st
 
 Ofcouse this app I made for fun because I love space, but it is cool to think of what can be found using it.
 
+## How It Works
+For this project I was using Java version 15.0.1 from 2020-10-20. Make sure to have Java installed. You can find the list of downloads here: https://www.oracle.com/java/technologies/downloads/
+
+In my personal environment, I was using VS Code and running the program from there. This project uses Java Swing as well as Java AWT. When running it from VS Code, it handled all of the imports and installs from there. Using the terminal, it might be a little different. 
+
+Once it is up and running enjoy the view of our solar system!!
+
 ## Possible Additions
 
 - In the Future, I would like to add support for placing the circles at a specific start point. Right now they are all aligned when first initialized which can be troublesome. Hopefully I will add this in the near future.
+- I would also like to add a settings tab feature, this will help with the intial starting positions. Here as well I want to add a feature for the user to add a Earth speed integer. This way the orbits (mostly for the outer planets) can be a bit faster. This will make it easier for observations.
+
+Any feedback is greatly appreciated, if there is an issue or feature that might seem cool to add please create an issue!
