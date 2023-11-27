@@ -1,6 +1,6 @@
 # Solar System Animation
 
-Take a journey through our Solar System!! The cosmos if a really cool subject to study, especially our solar system which is where our little blue planet that houses all of us humans!
+Take a journey through our Solar System!! The cosmos is a really cool subject to study, especially our solar system which is where our little blue planet that houses all of us humans!
 
 This animation of the solar system uses the orbits of the planets to show how each planet rotates around our sun!
 
